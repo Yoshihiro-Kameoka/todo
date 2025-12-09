@@ -6,6 +6,13 @@
 
 このアプリケーションは、HTML、CSS、JavaScriptのみで構築されたシンプルなTODO管理ツールです。LocalStorageを使用してデータを永続化するため、ブラウザを閉じてもタスクが保存されます。
 
+## デモ
+
+このアプリは以下のURLで公開されています：
+
+- **Vercel**: https://todo-o1sb0iuyk-yoshihiro-kameokas-projects.vercel.app
+- **GitHub Pages**: https://yoshihiro-kameoka.github.io/todo/
+
 ## 機能
 
 ### 基本機能
@@ -27,6 +34,7 @@ todo/
 ├── index.html    # アプリケーションの構造
 ├── style.css     # デザインとスタイリング
 ├── app.js        # 機能の実装
+├── vercel.json   # Vercelデプロイ設定
 └── README.md     # このドキュメント
 ```
 
