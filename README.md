@@ -10,7 +10,7 @@
 
 このアプリは以下のURLで公開されています：
 
-- **Vercel**: https://todo-o1sb0iuyk-yoshihiro-kameokas-projects.vercel.app
+- **Vercel**: https://todo-2csxj8scm-yoshihiro-kameokas-projects.vercel.app
 - **GitHub Pages**: https://yoshihiro-kameoka.github.io/todo/
 
 ## 機能
